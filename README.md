@@ -44,5 +44,7 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/backbencherstudio/Buss_seat_app(practice Task).git
    cd celina_food_image_app
 
-<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/32394062-6ebe-45ba-9c8d-7609c148bd19" />
-<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/e054e137-7d91-493c-832b-44b1be4fe472" />
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/60c46e3e-8d1d-4a9c-b5d3-f6ae80eca39a" />
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/518f82f6-e2a5-475c-8061-090510b5cc2c" />
+
+
